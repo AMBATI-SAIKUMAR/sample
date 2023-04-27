@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "ivisecurity.client.app.urls",
+  "type": "java.lang.String",
+  "description": "A description for 'ivisecurity.client.app.urls'"
+}]}

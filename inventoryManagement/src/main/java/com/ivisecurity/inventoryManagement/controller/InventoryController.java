@@ -25,8 +25,4 @@ public class InventoryController {
 	public InventoryEntity adddevice(@RequestBody InventoryEntity entity) {
 		return Repository.save(entity);
 	}
-	
-	
-	
-	
 }
